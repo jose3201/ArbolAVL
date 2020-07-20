@@ -1,0 +1,20 @@
+D:\estructuras en C#\arbolAVL\bin\Debug\arbolAVL.exe.config
+D:\estructuras en C#\arbolAVL\bin\Debug\arbolAVL.exe
+D:\estructuras en C#\arbolAVL\bin\Debug\arbolAVL.pdb
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.csprojAssemblyReference.cache
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.Form1.resources
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.Properties.Resources.resources
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.csproj.GenerateResource.cache
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.csproj.CoreCompileInputs.cache
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.exe
+D:\estructuras en C#\arbolAVL\obj\Debug\arbolAVL.pdb
+D:\estructurasenC#\arbolAVL\bin\Debug\arbolAVL.exe.config
+D:\estructurasenC#\arbolAVL\bin\Debug\arbolAVL.exe
+D:\estructurasenC#\arbolAVL\bin\Debug\arbolAVL.pdb
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.csprojAssemblyReference.cache
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.Form1.resources
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.Properties.Resources.resources
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.csproj.GenerateResource.cache
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.csproj.CoreCompileInputs.cache
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.exe
+D:\estructurasenC#\arbolAVL\obj\Debug\arbolAVL.pdb
